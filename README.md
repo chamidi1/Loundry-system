@@ -9,15 +9,15 @@ Architectural Design: Model View Controller Architecture
 Duration: 1 month
 
 ### Screenshot
-![](Screenshot/1.jpg)
+![](Screenshot/1.jpeg)
 #
-![](Screenshot/2.jpg)
+![](Screenshot/2.jpeg)
 #
-![](Screenshot/3.jpg)
+![](Screenshot/3.jpeg)
 #
-![](Screenshot/4.jpg)
+![](Screenshot/4.jpeg)
 #
-![](Screenshot/5.jpg)
+![](Screenshot/5.jpeg)
 #
 #### Developer by- Chamidi Lakshani Wijesuriya.
 
